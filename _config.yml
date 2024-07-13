@@ -66,7 +66,7 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
-google_analytics: G-CDYP53SB33
+# google_analytics: G-CDYP53SB33
 ga_tracking: G-CDYP53SB33
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
